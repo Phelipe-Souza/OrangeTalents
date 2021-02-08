@@ -1,1 +1,1 @@
-# OrangeTalents
+Criar uma API REST que sorteie números aleatórios para loteria. E como forma de facilitar a identificação do apostador, a aposta deverá estar associada a um email. O objetivo será criar dois endpoints, o primeiro receberá o email da pessoa e irá retornar um jogo como objeto de resposta, já o segundo é para listar todas as apostar do usuário solicitado todas em ordem de criação. 
